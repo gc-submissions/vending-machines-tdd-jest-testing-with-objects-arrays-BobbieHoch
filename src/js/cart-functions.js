@@ -8,11 +8,6 @@ function isSufficientPayment(total, payment) => payment >= total; { };
     
 }
 
-
-
-
-
-
 function calculateTotal() {}
 function addItem() {}
 function removeItem() {}
